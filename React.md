@@ -12,3 +12,4 @@
 # immer 사용법
 - immer produce from "immer";
 - const nextState = produce(수정하고자하는상태명, 상태를업데이트하도록하는함수정의);
+- set상태명(porduce(상태를 업데이트 하도록 하는 함수정의));
